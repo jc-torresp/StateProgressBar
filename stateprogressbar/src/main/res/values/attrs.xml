@@ -49,6 +49,9 @@
             <enum name="three" value="3" />
             <enum name="four" value="4" />
             <enum name="five" value="5" />
+            <enum name="six" value="6" />
+            <enum name="seven" value="7" />
+            <enum name="eight" value="8" />
         </attr>
 
 
@@ -58,6 +61,9 @@
             <enum name="three" value="3" />
             <enum name="four" value="4" />
             <enum name="five" value="5" />
+            <enum name="six" value="6" />
+            <enum name="seven" value="7" />
+            <enum name="eight" value="8" />
         </attr>
 
     </declare-styleable>
